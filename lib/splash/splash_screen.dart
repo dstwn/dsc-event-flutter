@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../bloc/splash/splash_screen_bloc.dart';
-import 'home.dart';
-import 'widget/splash_screen_widget.dart';
+import 'bloc/splash_screen_bloc.dart';
+import '../home.dart';
+import 'splash_screen_widget.dart';
 
 class SplashScreen extends StatelessWidget {
   @override
